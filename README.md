@@ -19,7 +19,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manish-ach&show_icons=true&title_color=cf0524&text_color=2686a6&bg_color=0d0d0d&hide_border=true&locale=en&layout=compact" alt="manish-ach" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manish-ach&show_icons=true&locale=en" alt="manish-ach" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manish-ach&show_icons=true&title_color=977524&text_color=f2f4f4&bg_color=303236&locale=en" alt="manish-ach" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manish-ach&theme=highcontrast" alt="manish-ach" /></p>
 
