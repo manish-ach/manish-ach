@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Manish Acharya</h1>
+ <a href="https://manish-ach.github.io/">
+    <img src="https://readme-typing-svg.herokuapp.com?color=black&size=26&center=true&vCenter=true&width=900&lines=Hi%2C+I+am+Manish+Acharya.">
+  </a>
 <h3 align="center">Passionate Software enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish-ach&label=Profile%20views&color=0e75b6&style=flat" alt="manish-ach" /> </p>
