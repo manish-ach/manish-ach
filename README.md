@@ -16,7 +16,7 @@ I'm currently learning Rust & dabbling in shell scripts
 ![](https://github-profile-trophy.vercel.app/?username=manish-ach&theme=rose_pine&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=manish-ach&limit=5&theme=rose_pine&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=manish-ach&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=manish-ach&icon=0&color=0)](https://visitcount.itsvg.in)
