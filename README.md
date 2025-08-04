@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Rust & dabbling in shell scripts
+Rust Enthusiast, backend works.
 
 
 ## 🌐 Socials:
