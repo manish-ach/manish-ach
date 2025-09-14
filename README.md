@@ -11,4 +11,5 @@ Rust Enthusiast, backend works.
 ---
 [![](https://visitcount.itsvg.in/api?id=manish-ach&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manish-ach&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
