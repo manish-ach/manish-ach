@@ -6,4 +6,4 @@ mere pass 🫪 hai
 नामासते
 
 ---
->! spoiler? !<
+>!spoiler?
