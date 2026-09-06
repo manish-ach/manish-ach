@@ -1,1 +1,1 @@
-<img width="1696" height="1632" alt="image" src="https://github.com/user-attachments/assets/e51551a7-3bf6-4993-946f-5a7060dfed69" />
+<img width="1600" height="861" alt="rayquaza" src="https://github.com/user-attachments/assets/0bb84994-c571-4222-8b69-6c09a3636f5d" />
